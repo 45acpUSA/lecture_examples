@@ -1,4 +1,4 @@
-//----------------Arrays Lecture 4/16/19
+//ARRAYS LECTURE 4/16/19
 
 var trees = ["palm", "oak", "maple", "redwood", "aspen", "elm"]
 

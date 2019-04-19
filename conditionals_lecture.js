@@ -1,4 +1,4 @@
-//---------Conditionals Lecture 4/16/19
+//CONDITIONAL LECTURE 4/16/19
 
 var loggedIn = true
 
