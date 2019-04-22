@@ -5,7 +5,10 @@
 
 
 //`const` is a variable that will not be reassigned
+//const - can be use for objects, the object cannot be changed but the properties of the object can be changed
 //`let` is a variable available to the block-scope, such as inside a loop
+
+//passing parameters into class functions
 
 //------------------Spread Syntax
 
