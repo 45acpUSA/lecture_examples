@@ -1,4 +1,4 @@
-
+//these are for reference only.  These tests won't run properly unless you add jest to the folder where they are located.
 
 describe("greeting", () => {
     test ("returns a greeting of hello", () => {
