@@ -1,0 +1,27 @@
+h1{
+ text-align: center;
+ font-size: 50px;
+}
+
+#mainBoard{
+ display: flex;
+ flex-direction: row;
+ flex-wrap: wrap;
+ justify-content: center;
+ text-align: center;
+ align-items: center;
+ border: 10px solid black;
+ height: 900px;
+ width: 900px;
+ margin: auto;
+}
+
+.mainSquare{
+ display: flex;
+ justify-content: center;
+ text-align: center;
+ align-items: center;
+ font-size: 50px;
+ height: 300px;
+ width: 300px;
+}
