@@ -17,10 +17,10 @@
   - Write tests before you implement code
     - Red, Green, Refactor
   - it "takes an x and a y argument and adds them together"
-  - it "it should have and text input with a value of name"
+  - it "it should have and text input with an id of name"
 
 ## Behavior Driven Development
   - Software Development Process
   - Define the behavior of the application
   - it "receives 2 arguments and return the sum"
-  - "as a user i can see an input for my name"
+  - it "has an input for a name"
