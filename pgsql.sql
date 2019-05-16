@@ -64,3 +64,4 @@ FROM
 
 
 -- A visual resource https://www.codeproject.com/Articles/33052/Visual-Representation-of-SQL-Joins
+-- lecture video link from today: https://www.youtube.com/watch?v=9minwvsiOWg
